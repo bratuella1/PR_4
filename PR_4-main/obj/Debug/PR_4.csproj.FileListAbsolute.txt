@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\C#\PR_4\PR_4\bin\Debug\PR_4.exe.config
+C:\Users\Arthur\Desktop\C#\PR_4\PR_4\bin\Debug\PR_4.exe
+C:\Users\Arthur\Desktop\C#\PR_4\PR_4\bin\Debug\PR_4.pdb
+C:\Users\Arthur\Desktop\C#\PR_4\PR_4\obj\Debug\PR_4.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\C#\PR_4\PR_4\obj\Debug\PR_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthur\Desktop\C#\PR_4\PR_4\obj\Debug\PR_4.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\C#\PR_4\PR_4\obj\Debug\PR_4.exe
+C:\Users\Arthur\Desktop\C#\PR_4\PR_4\obj\Debug\PR_4.pdb
+D:\Users\1210N-1\Documents\2-ИСП\ОП\Подгруппа 2\Ханов Артур\PR_4-main\bin\Debug\PR_4.exe.config
+D:\Users\1210N-1\Documents\2-ИСП\ОП\Подгруппа 2\Ханов Артур\PR_4-main\bin\Debug\PR_4.exe
+D:\Users\1210N-1\Documents\2-ИСП\ОП\Подгруппа 2\Ханов Артур\PR_4-main\bin\Debug\PR_4.pdb
+D:\Users\1210N-1\Documents\2-ИСП\ОП\Подгруппа 2\Ханов Артур\PR_4-main\obj\Debug\PR_4.csproj.CoreCompileInputs.cache
+D:\Users\1210N-1\Documents\2-ИСП\ОП\Подгруппа 2\Ханов Артур\PR_4-main\obj\Debug\PR_4.exe
+D:\Users\1210N-1\Documents\2-ИСП\ОП\Подгруппа 2\Ханов Артур\PR_4-main\obj\Debug\PR_4.pdb
